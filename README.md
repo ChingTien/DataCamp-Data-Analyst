@@ -3,98 +3,98 @@
 
 ## Understanding Data Visualization
 
-- [x] 01. Python Basic
-- [x] 02. Python Lists
-- [x] 03. Functions and Package
-- [x] 04. Numpy
+- [ ] 01. Visualizing distributions
+- [ ] 02. Visualizing two variables
+- [ ] 03. The color and the shape
+- [ ] 04. 99 problems but a plot ain't one of them
 <br>
 
 ## Introduction to Statistics
 
-- [x] 05. Matplotlib
-- [x] 06. Dictionaries & Pandas
-- [x] 07. Logic, Control Flow and Filtering
-- [x] 08. Loops
-- [x] 09. Case Study: Hacker Statistics
+- [ ] 05. 
+- [ ] 06. 
+- [ ] 07. 
+- [ ] 08. 
+- [ ] 09. 
 <br>
 
 ## Introduction to SQL
 
-- [x] 10. Writing your own functions
-- [x] 11. Default arguments, variable-length arguments and scope
-- [x] 12. Lambda functions and error-handling
+- [ ] 10. 
+- [ ] 11. 
+- [ ] 12. 
 <br>
 
 ## Intermediate SQL
 
-- [x] 13. Using iterators in PythonLand
-- [x] 14. List comprehensions and generators
-- [x] 15. Bringing it all together!
+- [ ] 13. 
+- [ ] 14. 
+- [ ] 15. 
 <br>
 
 ## Joining Data in SQL
 
-- [x] 16. Introduction and flat files
-- [x] 17. Importing data from other file types
-- [x] 18. Working with relational databases in Python
+- [ ] 16. 
+- [ ] 17. 
+- [ ] 18. 
 <br>
 
 ## Data Manipulation in SQL
 
-- [x] 19. Importing data from the Internet
-- [x] 20. Interacting with APIs to import data from the web
-- [x] 21. Diving deep into the Twitter API
+- [ ] 19. 
+- [ ] 20. 
+- [ ] 21. 
 <br>
 
 ## PostgreSQL Summary Stats and Window Functions
 
-- [x] 22. Exploring your data
-- [x] 23. Tidying data for analysis
-- [x] 24. Combining data for analysis
-- [x] 25. Cleaning data for analysis
-- [x] 26. Case study
+- [ ] 22. 
+- [ ] 23. 
+- [ ] 24. 
+- [ ] 25. 
+- [ ] 26. 
 <br>
 
 ## Functions for Manipulating Data in PostgreSQL
 
-- [x] 27. Data ingestion & inspection
-- [x] 28. Exploratory data analysis
-- [x] 29. Time series in pandas
-- [x] 30. Case Study - Sunlight in Austin
+- [ ] 27. 
+- [ ] 28. 
+- [ ] 29. 
+- [ ] 30. 
 <br>
 
 ## Exploratory Data Analysis in SQL
 
-- [x] 31. Extracting and transforming data
-- [x] 32. Advanced indexing
-- [x] 33. Rearranging and reshaping data
-- [x] 34. Grouping data
-- [x] 35. Bringing it all together
+- [ ] 31. 
+- [ ] 32. 
+- [ ] 33. 
+- [ ] 34. 
+- [ ] 35. 
 <br>
 
 ## Data-Driven Decision Making in SQL
 
-- [x] 36. Preparing data
-- [x] 37. Concatenating data
-- [x] 38. Merging data
-- [x] 39. Case Study - Summer Olympics
+- [ ] 36. 
+- [ ] 37. 
+- [ ] 38. 
+- [ ] 39. 
 <br>
 
 ## Data Communication Concepts
 
-- [x] 40. Selecting columns
-- [x] 41. Filtering rows
-- [x] 42. Aggregate Functions
-- [x] 43. Sorting, grouping and joins
+- [ ] 40. 
+- [ ] 41. 
+- [ ] 42. 
+- [ ] 43. 
 <br>
 
 ## When Was the Golden Age of Video Games?
 
-- [x] 44. Basics of Relational Databases
-- [x] 45. Applying Filtering, Ordering and Grouping to Queries
-- [x] 46. Advanced SQLAlchemy Queries
-- [x] 47. Creating and Manipulating your own Databases
-- [x] 48. Putting it all together
+- [ ] 44. 
+- [ ] 45. 
+- [ ] 46. 
+- [ ] 47. 
+- [ ] 48. 
 <br>
 
 
