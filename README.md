@@ -15,90 +15,89 @@
 - [ ] 06. Probability and distributions
 - [ ] 07. More Distributions and the Central Limit Theorem
 - [ ] 08. Correlation and Hypothesis Testing
-- [ ] 09. 
 <br>
 
 ## Introduction to SQL
 
-- [ ] 10. Relational Databases
-- [ ] 11. Querying
+- [ ] 09. Relational Databases
+- [ ] 10. Querying
 <br>
 
 ## Intermediate SQL
 
-- [ ] 12. Selecting Data
-- [ ] 13. Filtering Records
-- [ ] 14. Aggregate Functions
-- [ ] 15. Sorting and Grouping
+- [ ] 11. Selecting Data
+- [ ] 12. Filtering Records
+- [ ] 13. Aggregate Functions
+- [ ] 14. Sorting and Grouping
 <br>
 
 ## Joining Data in SQL
 
-- [ ] 16. Introducing Inner Joins
-- [ ] 17. Outer Joins, Cross Joins and Self Joins
-- [ ] 18. Set Theory for SQL Joins
-- [ ] 19. Subqueries
+- [ ] 15. Introducing Inner Joins
+- [ ] 16. Outer Joins, Cross Joins and Self Joins
+- [ ] 17. Set Theory for SQL Joins
+- [ ] 18. Subqueries
 <br>
 
 ## Data Manipulation in SQL
 
-- [ ] 20. We'll take the CASE
-- [ ] 21. Short and Simple Subqueries
-- [ ] 22. Correlated Queries, Nested Queries, and Common Table Expressions
-- [ ] 23. Window Functions
+- [ ] 19. We'll take the CASE
+- [ ] 20. Short and Simple Subqueries
+- [ ] 21. Correlated Queries, Nested Queries, and Common Table Expressions
+- [ ] 22. Window Functions
 
 <br>
 
 ## PostgreSQL Summary Stats and Window Functions
 
-- [ ] 24. Introduction to window functions
-- [ ] 25. Fetching, ranking, and paging
-- [ ] 26. Aggregate window functions and frames
-- [ ] 27. Beyond window functions
+- [ ] 23. Introduction to window functions
+- [ ] 24. Fetching, ranking, and paging
+- [ ] 25. Aggregate window functions and frames
+- [ ] 26. Beyond window functions
 <br>
 
 ## Functions for Manipulating Data in PostgreSQL
 
-- [ ] 28. Overview of Common Data Types
-- [ ] 29. Working with DATE/TIME Functions and Operators
-- [ ] 30. Parsing and Manipulating Text
-- [ ] 31. Full-text Search and PostgresSQL Extensions
+- [ ] 27. Overview of Common Data Types
+- [ ] 28. Working with DATE/TIME Functions and Operators
+- [ ] 29. Parsing and Manipulating Text
+- [ ] 30. Full-text Search and PostgresSQL Extensions
 <br>
 
 ## Exploratory Data Analysis in SQL
 
-- [ ] 32. What's in the database?
-- [ ] 33. Summarizing and aggregating numeric data
-- [ ] 34. Exploring categorical data and unstructured text
-- [ ] 35. Working with dates and timestamps
+- [ ] 31. What's in the database?
+- [ ] 32. Summarizing and aggregating numeric data
+- [ ] 33. Exploring categorical data and unstructured text
+- [ ] 34. Working with dates and timestamps
 <br>
 
 ## Data-Driven Decision Making in SQL
 
-- [ ] 36. Introduction to business intelligence for a online movie rental database
-- [ ] 37. Decision Making with simple SQL queries
-- [ ] 38. Data Driven Decision Making with advanced SQL queries
-- [ ] 39. Data Driven Decision Making with OLAP SQL queries
+- [ ] 35. Introduction to business intelligence for a online movie rental database
+- [ ] 36. Decision Making with simple SQL queries
+- [ ] 37. Data Driven Decision Making with advanced SQL queries
+- [ ] 38. Data Driven Decision Making with OLAP SQL queries
 <br>
 
 ## Data Communication Concepts
 
-- [ ] 40. Storytelling with Data
-- [ ] 41. Preparing to communicate the data
-- [ ] 42. Structuring written reports
-- [ ] 43. Building compelling oral presentations
+- [ ] 39. Storytelling with Data
+- [ ] 40. Preparing to communicate the data
+- [ ] 41. Structuring written reports
+- [ ] 42. Building compelling oral presentations
 <br>
 
 ## When Was the Golden Age of Video Games?
 
-- [ ] 44. The ten best-selling video games
-- [ ] 45. Missing review scores
-- [ ] 46. Years that video game critics loved
-- [ ] 47. Was 1982 really that great?
-- [ ] 48. Years that dropped off the critics' favorites list
-- [ ] 49. Years video game players loved
-- [ ] 50. Years that both players and critics loved
-- [ ] 51. Sales in the best video game years
+- [ ] 43. The ten best-selling video games
+- [ ] 44. Missing review scores
+- [ ] 45. Years that video game critics loved
+- [ ] 46. Was 1982 really that great?
+- [ ] 47. Years that dropped off the critics' favorites list
+- [ ] 48. Years video game players loved
+- [ ] 49. Years that both players and critics loved
+- [ ] 50. Sales in the best video game years
 <br>
 
 
