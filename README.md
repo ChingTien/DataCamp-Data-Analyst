@@ -88,16 +88,16 @@
 - [ ] 42. Building compelling oral presentations
 <br>
 
-## When Was the Golden Age of Video Games?
+## Project: When Was the Golden Age of Video Games?
 
-- [ ] 43. The ten best-selling video games
-- [ ] 44. Missing review scores
-- [ ] 45. Years that video game critics loved
-- [ ] 46. Was 1982 really that great?
-- [ ] 47. Years that dropped off the critics' favorites list
-- [ ] 48. Years video game players loved
-- [ ] 49. Years that both players and critics loved
-- [ ] 50. Sales in the best video game years
+- [ ] The ten best-selling video games
+- [ ] Missing review scores
+- [ ] Years that video game critics loved
+- [ ] Was 1982 really that great?
+- [ ] Years that dropped off the critics' favorites list
+- [ ] Years video game players loved
+- [ ] Years that both players and critics loved
+- [ ] Sales in the best video game years
 <br>
 
 
