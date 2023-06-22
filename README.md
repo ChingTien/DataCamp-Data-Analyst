@@ -5,7 +5,7 @@
 
 - [x] 01. Visualizing distributions
 - [x] 02. Visualizing two variables
-- [ ] 03. The color and the shape
+- [x] 03. The color and the shape
 - [ ] 04. 99 problems but a plot ain't one of them
 <br>
 
