@@ -1,7 +1,7 @@
 # Data Analyst with SQL
 <br>
 
-## Understanding Data Visualization
+## [Understanding Data Visualization](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/a.%20Understanding%20Data%20Visualization.pdf)
 
 - [x] 01. Visualizing distributions
 - [x] 02. Visualizing two variables
