@@ -11,7 +11,7 @@
 
 ## Introduction to Statistics
 
-- [ ] 05. Summary Statistics
+- [x] 05. Summary Statistics
 - [ ] 06. Probability and distributions
 - [ ] 07. More Distributions and the Central Limit Theorem
 - [ ] 08. Correlation and Hypothesis Testing
