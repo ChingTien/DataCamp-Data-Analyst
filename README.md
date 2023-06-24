@@ -9,12 +9,12 @@
 - [x] 04. 99 problems but a plot ain't one of them
 <br>
 
-## Introduction to Statistics
+## [Introduction to Statistics](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/b.%20Introduction%20to%20Statistics%20.pdf)
 
 - [x] 05. Summary Statistics
 - [x] 06. Probability and distributions
 - [x] 07. More Distributions and the Central Limit Theorem
-- [ ] 08. Correlation and Hypothesis Testing
+- [x] 08. Correlation and Hypothesis Testing
 <br>
 
 ## Introduction to SQL
