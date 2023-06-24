@@ -13,7 +13,7 @@
 
 - [x] 05. Summary Statistics
 - [x] 06. Probability and distributions
-- [ ] 07. More Distributions and the Central Limit Theorem
+- [x] 07. More Distributions and the Central Limit Theorem
 - [ ] 08. Correlation and Hypothesis Testing
 <br>
 
