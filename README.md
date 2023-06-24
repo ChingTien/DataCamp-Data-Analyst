@@ -17,10 +17,10 @@
 - [x] 08. Correlation and Hypothesis Testing
 <br>
 
-## Introduction to SQL
+## [Introduction to SQL](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/c.%20Introduction%20to%20SQL.pdf)
 
-- [ ] 09. Relational Databases
-- [ ] 10. Querying
+- [x] 09. Relational Databases
+- [x] 10. Querying
 <br>
 
 ## Intermediate SQL
