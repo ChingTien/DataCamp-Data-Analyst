@@ -26,7 +26,7 @@
 ## Intermediate SQL
 
 - [x] 11. Selecting Data
-- [ ] 12. Filtering Records
+- [x] 12. Filtering Records
 - [ ] 13. Aggregate Functions
 - [ ] 14. Sorting and Grouping
 <br>
