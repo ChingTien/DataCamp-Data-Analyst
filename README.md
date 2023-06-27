@@ -23,12 +23,12 @@
 - [x] 10. Querying
 <br>
 
-## Intermediate SQL
+## [Intermediate SQL](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/d.%20Intermediate%20SQL.pdf)
 
 - [x] 11. Selecting Data
 - [x] 12. Filtering Records
 - [x] 13. Aggregate Functions
-- [ ] 14. Sorting and Grouping
+- [x] 14. Sorting and Grouping
 <br>
 
 ## Joining Data in SQL
