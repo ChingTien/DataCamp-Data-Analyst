@@ -27,7 +27,7 @@
 
 - [x] 11. Selecting Data
 - [x] 12. Filtering Records
-- [ ] 13. Aggregate Functions
+- [x] 13. Aggregate Functions
 - [ ] 14. Sorting and Grouping
 <br>
 
