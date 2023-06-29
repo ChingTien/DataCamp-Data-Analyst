@@ -34,8 +34,8 @@
 ## Joining Data in SQL
 
 - [x] 15. Introducing Inner Joins
-- [ ] 16. Outer Joins, Cross Joins and Self Joins
-- [ ] 17. Set Theory for SQL Joins
+- [x] 16. Outer Joins, Cross Joins and Self Joins
+- [x] 17. Set Theory for SQL Joins
 - [ ] 18. Subqueries
 <br>
 
