@@ -31,7 +31,7 @@
 - [x] 14. Sorting and Grouping
 <br>
 
-## [Joining Data in SQL](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/e.%20Joining%20Data%20in%20SQL.pdf
+## [Joining Data in SQL](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/e.%20Joining%20Data%20in%20SQL.pdf)
 
 - [x] 15. Introducing Inner Joins
 - [x] 16. Outer Joins, Cross Joins and Self Joins
