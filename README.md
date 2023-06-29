@@ -36,7 +36,7 @@
 - [x] 15. Introducing Inner Joins
 - [x] 16. Outer Joins, Cross Joins and Self Joins
 - [x] 17. Set Theory for SQL Joins
-- [ ] 18. Subqueries
+- [x] 18. Subqueries
 <br>
 
 ## Data Manipulation in SQL
