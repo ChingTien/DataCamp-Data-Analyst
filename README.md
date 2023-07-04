@@ -41,7 +41,7 @@
 
 ## Data Manipulation in SQL
 
-- [ ] 19. We'll take the CASE
+- [x] 19. We'll take the CASE
 - [ ] 20. Short and Simple Subqueries
 - [ ] 21. Correlated Queries, Nested Queries, and Common Table Expressions
 - [ ] 22. Window Functions
