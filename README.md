@@ -43,7 +43,7 @@
 
 - [x] 19. We'll take the CASE
 - [x] 20. Short and Simple Subqueries
-- [ ] 21. Correlated Queries, Nested Queries, and Common Table Expressions
+- [x] 21. Correlated Queries, Nested Queries, and Common Table Expressions
 - [ ] 22. Window Functions
 
 <br>
