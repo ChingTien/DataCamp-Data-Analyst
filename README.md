@@ -39,7 +39,7 @@
 - [x] 18. Subqueries
 <br>
 
-## Data Manipulation in SQL
+## [Data Manipulation in SQL](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/f.%20Data%20Manipulation%20in%20SQL.pdf)
 
 - [x] 19. We'll take the CASE
 - [x] 20. Short and Simple Subqueries
