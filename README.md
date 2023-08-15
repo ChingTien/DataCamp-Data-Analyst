@@ -44,13 +44,13 @@
 - [x] 19. We'll take the CASE
 - [x] 20. Short and Simple Subqueries
 - [x] 21. Correlated Queries, Nested Queries, and Common Table Expressions
-- [ ] 22. Window Functions
+- [x] 22. Window Functions
 
 <br>
 
 ## PostgreSQL Summary Stats and Window Functions
 
-- [ ] 23. Introduction to window functions
+- [x] 23. Introduction to window functions
 - [ ] 24. Fetching, ranking, and paging
 - [ ] 25. Aggregate window functions and frames
 - [ ] 26. Beyond window functions
