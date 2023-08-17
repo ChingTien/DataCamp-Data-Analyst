@@ -51,7 +51,7 @@
 ## PostgreSQL Summary Stats and Window Functions
 
 - [x] 23. Introduction to window functions
-- [ ] 24. Fetching, ranking, and paging
+- [x] 24. Fetching, ranking, and paging
 - [ ] 25. Aggregate window functions and frames
 - [ ] 26. Beyond window functions
 <br>
