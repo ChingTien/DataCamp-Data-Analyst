@@ -48,12 +48,12 @@
 
 <br>
 
-## PostgreSQL Summary Stats and Window Functions
+## [PostgreSQL Summary Stats and Window Functions](https://github.com/ChingTien/DataCamp-Data-Analyst/blob/main/g.%20PostgreSQL%20Summary%20Stats%20and%20Window%20Functions.pdf)
 
 - [x] 23. Introduction to window functions
 - [x] 24. Fetching, ranking, and paging
-- [ ] 25. Aggregate window functions and frames
-- [ ] 26. Beyond window functions
+- [x] 25. Aggregate window functions and frames
+- [x] 26. Beyond window functions
 <br>
 
 ## Functions for Manipulating Data in PostgreSQL
