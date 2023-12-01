@@ -58,7 +58,7 @@
 
 ## Functions for Manipulating Data in PostgreSQL
 
-- [ ] 27. Overview of Common Data Types
+- [x] 27. Overview of Common Data Types
 - [ ] 28. Working with DATE/TIME Functions and Operators
 - [ ] 29. Parsing and Manipulating Text
 - [ ] 30. Full-text Search and PostgresSQL Extensions
